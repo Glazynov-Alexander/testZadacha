@@ -16,4 +16,3 @@ submit.addEventListener("click", () => {
     g++;
   }
 });
-
